@@ -1,0 +1,27 @@
+.cart-moontaha{
+    padding: 50px 0;
+}
+.cart-moontaha td{
+    text-align: center;
+}
+
+.moontaha-pay a{
+    padding: 15px 0;
+    display: block;
+    background-color: #08344f;
+    border: 1px solid #08344f;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 18px;
+    letter-spacing: 0.5px;
+    transition: 0.5s ease;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-decoration: none;
+    text-align: center;
+}
+.moontaha-pay a:hover{
+    background-color: #fff;
+    color: #08344f;
+    
+}
